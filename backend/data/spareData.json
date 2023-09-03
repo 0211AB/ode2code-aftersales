@@ -1,0 +1,1612 @@
+{
+    "data": [
+        {
+            "model": "Redmi 2",
+            "name": "Mainboard Assy-Redmi2-FDD-8G-IN",
+            "type": "Sideboard",
+            "price": "3399"
+        },
+        {
+            "model": "Redmi 2",
+            "name": "Mainboard-Redmi2-FDD-IN-enhanced",
+            "type": "Sideboard",
+            "price": "3499"
+        },
+        {
+            "model": "Redmi 1S",
+            "name": "Mainboard Assy-Redmi 1S-WCDMA-EN",
+            "type": "Sideboard",
+            "price": "4099"
+        },
+        {
+            "model": "Redmi 1S",
+            "name": "Mainboard Assy-Redmi 1S-WCDMA-IN",
+            "type": "Sideboard",
+            "price": "3999"
+        },
+        {
+            "model": "Redmi 2",
+            "name": "Front Cover Display Module-Redmi2",
+            "type": "Back Housing",
+            "price": "2199"
+        },
+        {
+            "model": "Redmi 3 / 3S",
+            "name": "Front Cover Display Module-Redmi 3S-IN-Gray/Silver",
+            "type": "Back Housing",
+            "price": "1399"
+        },
+        {
+            "model": "Redmi 3 / 3S",
+            "name": "Front Cover Display Module-Redmi 3S-IN-Golden",
+            "type": "Back Housing",
+            "price": "1799"
+        },
+        {
+            "model": "Redmi 3 / 3S",
+            "name": "Mainboard Assy – 16G",
+            "type": "Sideboard",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi 3 / 3S",
+            "name": "Mainboard Assy – 32G",
+            "type": "Sideboard",
+            "price": "2599"
+        },
+        {
+            "model": "Redmi 3S+",
+            "name": "Mainboard Assy – 32G",
+            "type": "Sideboard",
+            "price": "2599"
+        },
+        {
+            "model": "Redmi 3S",
+            "name": "Mainboard Assy-Redmi 3S-IN-32G",
+            "type": "Sideboard",
+            "price": "2999"
+        },
+        {
+            "model": "Redmi 3S",
+            "name": "Mainboard Assy-Redmi 3S-IN-16G",
+            "type": "Sideboard",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi 3S",
+            "name": "Mainboard Assy-Redmi 3S-N/A-IN-32G",
+            "type": "Sideboard",
+            "price": "2599"
+        },
+        {
+            "model": "Redmi 3S+",
+            "name": "Front Cover Display Module-Redmi3-Golden/ Silver/Gray",
+            "type": "Back Housing",
+            "price": "1399"
+        },
+        {
+            "model": "Redmi 3S+",
+            "name": "Front Cover Display Module-Redmi3 S-Golden/ Silver/Gray",
+            "type": "Back Housing",
+            "price": "1799"
+        },
+        {
+            "model": "Redmi 4A",
+            "name": "Front Cover Display Module – White/Black",
+            "type": "Back Housing",
+            "price": "999"
+        },
+        {
+            "model": "Redmi 4A",
+            "name": "Mainboard Assy – 2+16G",
+            "type": "Sideboard",
+            "price": "1799"
+        },
+        {
+            "model": "Redmi 4A",
+            "name": "Mainboard Assy – 3+32G",
+            "type": "Sideboard",
+            "price": "3299"
+        },
+        {
+            "model": "Redmi 4",
+            "name": "Front Cover Display Module – White",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi 4",
+            "name": "Front Cover Display Module – Black",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi 4",
+            "name": "Mainboard Assy – 2+16G",
+            "type": "Sideboard",
+            "price": "1799"
+        },
+        {
+            "model": "Redmi 4",
+            "name": "Mainboard Assy 3+ 32G",
+            "type": "Sideboard",
+            "price": "3199"
+        },
+        {
+            "model": "Redmi 4",
+            "name": "Mainboard Assy – 4+ 64G",
+            "type": "Sideboard",
+            "price": "3499"
+        },
+        {
+            "model": "Redmi 4A",
+            "name": "Mainboard Assy-Redmi4A-SIM Free-16G-TVS",
+            "type": "Sideboard",
+            "price": "2699"
+        },
+        {
+            "model": "Redmi 5A",
+            "name": "Front Cover Display Module Black/White",
+            "type": "Back Housing",
+            "price": "1299"
+        },
+        {
+            "model": "Redmi 5A",
+            "name": "Mainboard Assy Redmi 5A- 2+16G",
+            "type": "Sideboard",
+            "price": "2199"
+        },
+        {
+            "model": "Redmi 5A",
+            "name": "Mainboard Assy Redmi 5A- 3+32G",
+            "type": "Sideboard",
+            "price": "2799"
+        },
+        {
+            "model": "Redmi 5",
+            "name": "Front Cover Display Module – White",
+            "type": "Back Housing",
+            "price": "2199"
+        },
+        {
+            "model": "Redmi 5",
+            "name": "Front Cover Display Module – Black",
+            "type": "Back Housing",
+            "price": "2399"
+        },
+        {
+            "model": "Redmi 5",
+            "name": "Mainboard Assy 2+16G",
+            "type": "Sideboard",
+            "price": "1499"
+        },
+        {
+            "model": "Redmi 5",
+            "name": "Mainboard Assy 3+32G",
+            "type": "Sideboard",
+            "price": "1899"
+        },
+        {
+            "model": "Redmi 5",
+            "name": "Mainboard Assy 4+64G",
+            "type": "Sideboard",
+            "price": "2399"
+        },
+        {
+            "model": "Redmi 6 Pro",
+            "name": "Front Cover Display Module – Black",
+            "type": "Back Housing",
+            "price": "2799"
+        },
+        {
+            "model": "Redmi 6 Pro",
+            "name": "Mainboard Assy 3+32GB",
+            "type": "Sideboard",
+            "price": "2699"
+        },
+        {
+            "model": "Redmi 6 Pro",
+            "name": "Mainboard Assy 4+64GB",
+            "type": "Sideboard",
+            "price": "3499"
+        },
+        {
+            "model": "Redmi 6 / Redmi 6A",
+            "name": "Front Cover Display Module – White / Black",
+            "type": "Back Housing",
+            "price": "1099"
+        },
+        {
+            "model": "Redmi 6",
+            "name": "Mainboard Assy 3GB+32GB – Redmi 6",
+            "type": "Sideboard",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi 6",
+            "name": "Mainboard Assy 3GB+64GB – Redmi 6",
+            "type": "Sideboard",
+            "price": "2699"
+        },
+        {
+            "model": "Redmi 6A",
+            "name": "Mainboard Assy 2GB+16GB – Redmi 6A",
+            "type": "Sideboard",
+            "price": "1899"
+        },
+        {
+            "model": "Redmi 6A",
+            "name": "Mainboard Assy 2GB+32GB – Redmi 6A",
+            "type": "Sideboard",
+            "price": "2199"
+        },
+        {
+            "model": "Redmi 7",
+            "name": "Mainboard Assy – 2GB+32GB",
+            "type": "Sideboard",
+            "price": "2999"
+        },
+        {
+            "model": "Redmi 7",
+            "name": "Mainboard Assy – 3GB+32GB",
+            "type": "Sideboard",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi 7",
+            "name": "Front Cover Display Module – Purple Blue / Red / Black",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi 7A",
+            "name": "Front Cover Display Module – Redmi 7A black",
+            "type": "Back Housing",
+            "price": "1599"
+        },
+        {
+            "model": "Redmi 7A",
+            "name": "Mainboard Assy-IN-2GB+32GB",
+            "type": "Sideboard",
+            "price": "2699"
+        },
+        {
+            "model": "Redmi 7A",
+            "name": "Mainboard Assy-IN-2GB+16GB",
+            "type": "Sideboard",
+            "price": "2299"
+        },
+        {
+            "model": "Redmi 8A/8A Dual",
+            "name": "Mainboard Assy-2GB+32GB",
+            "type": "Sideboard",
+            "price": "2599"
+        },
+        {
+            "model": "Redmi 8A/8A Dual",
+            "name": "Mainboard Assy-3GB+32GB",
+            "type": "Sideboard",
+            "price": "2899"
+        },
+        {
+            "model": "Redmi 8A Dual",
+            "name": "Mainboard Assy-3GB+64GB",
+            "type": "Sideboard",
+            "price": "3399"
+        },
+        {
+            "model": "Redmi 8A/8A Dual",
+            "name": "Front Cover Display Module-All Colour",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi 8/Redmi 8 Dual",
+            "name": "Mainboard Assy-4GB+64GB",
+            "type": "Sideboard",
+            "price": "3699"
+        },
+        {
+            "model": "Redmi 8/Redmi 8 Dual",
+            "name": "Front Cover Display Module-All Colour",
+            "type": "Back Housing",
+            "price": "2399"
+        },
+        {
+            "model": "Redmi 8A Dual",
+            "name": "Mainboard Assy-C3K3-IN-2GB + 32GB",
+            "type": "Sideboard",
+            "price": "2599"
+        },
+        {
+            "model": "Redmi 8A Dual",
+            "name": "Mainboard Assy-C3K3-IN-3GB + 32GB",
+            "type": "Sideboard",
+            "price": "2899"
+        },
+        {
+            "model": "Redmi 8A Dual",
+            "name": "Mainboard Redmi 8 Dual 4GB+64GB",
+            "type": "Sideboard",
+            "price": "3699"
+        },
+        {
+            "model": "Redmi Y1 / Redmi Y1 Lite/ Redmi Y1S",
+            "name": "Front Cover Display Module",
+            "type": "Back Housing",
+            "price": "2099"
+        },
+        {
+            "model": "Redmi Y1 / Redmi Y1 Lite",
+            "name": "Mainboard Assy – 32G Redmi Y1 1.0",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Redmi Y1 / Redmi Y1 Lite",
+            "name": "Mainboard Assy – 32G Redmi Y1 2.0",
+            "type": "Sideboard",
+            "price": "2399"
+        },
+        {
+            "model": "Redmi Y1 / Redmi Y1 Lite",
+            "name": "Mainboard Assy – 16G Redmi Y1 Lite",
+            "type": "Sideboard",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi Y2",
+            "name": "Mainboard Assy-RedmiY2-IN-3GB+32GB",
+            "type": "Sideboard",
+            "price": "2999"
+        },
+        {
+            "model": "Redmi Y2",
+            "name": "Mainboard Assy-RedmiY2-IN-4GB+64GB",
+            "type": "Sideboard",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi Y2",
+            "name": "Front Cover Display Module Redmi Y2 Black/White",
+            "type": "Back Housing",
+            "price": "2199"
+        },
+        {
+            "model": "Redmi Y3",
+            "name": "Mainboard Assy-Redmi Y3-IN-3GB+32GB",
+            "type": "Sideboard",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi Y3",
+            "name": "Mainboard Assy-Redmi Y3-IN-4GB+64GB",
+            "type": "Sideboard",
+            "price": "4299"
+        },
+        {
+            "model": "Redmi Y3",
+            "name": "Front Cover Display Module Redmi Y3 Red/Blue",
+            "type": "Back Housing",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi Y3",
+            "name": "Front Cover Display Module Redmi Y3 Black",
+            "type": "Back Housing",
+            "price": "2199"
+        },
+        {
+            "model": "Redmi Y1S",
+            "name": "Mainboard Assy-2+16G",
+            "type": "Sideboard",
+            "price": "2799"
+        },
+        {
+            "model": "Redmi Note",
+            "name": "Mainboard Assy-Redmi Note-WCDMA-IN",
+            "type": "Mainboard",
+            "price": "5999"
+        },
+        {
+            "model": "Redmi Note",
+            "name": "Mainboard Assy-HM Note FDD-IN",
+            "type": "Mainboard",
+            "price": "5199"
+        },
+        {
+            "model": "Redmi Y1",
+            "name": "Mainboard Assy-Y1-IN-4+64",
+            "type": "Sideboard",
+            "price": "3899"
+        },
+        {
+            "model": "Redmi Note",
+            "name": "Front Cover Display Module-Redmi Note-WCDMA-White – HM Note 4G",
+            "type": "Back Housing",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi Note",
+            "name": "Front Cover Display Module-HM Note FDD-FOXCONN",
+            "type": "Back Housing",
+            "price": "3299"
+        },
+        {
+            "model": "Redmi Note 3",
+            "name": "Front Cover Display Module – Black / White/ Gray/ Silver / Golden",
+            "type": "Back Housing",
+            "price": "1499"
+        },
+        {
+            "model": "Redmi Note 3",
+            "name": "Mainboard Assy – Redmi Note3 16GB",
+            "type": "Sideboard",
+            "price": "2699"
+        },
+        {
+            "model": "Redmi Note 3",
+            "name": "Mainboard Assy – Redmi Note3 32GB",
+            "type": "Sideboard",
+            "price": "3699"
+        },
+        {
+            "model": "Redmi Note 4",
+            "name": "Front Cover Display Module – Black / White",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi Note 4",
+            "name": "Mainboard Assy – Redmi Note 4 2+32GB",
+            "type": "Sideboard",
+            "price": "3299"
+        },
+        {
+            "model": "Redmi Note 4",
+            "name": "Mainboard Assy – Redmi Note 4 3+32GB",
+            "type": "Sideboard",
+            "price": "2999"
+        },
+        {
+            "model": "Redmi Note 4",
+            "name": "Mainboard Assy – Redmi Note 4 4+64GB",
+            "type": "Sideboard",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi Note 5",
+            "name": "Front Cover Display Module – All Colours",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi Note 5",
+            "name": "Mainboard Assy – Redmi Note 5 3+32GB",
+            "type": "Sideboard",
+            "price": "2699"
+        },
+        {
+            "model": "Redmi Note 5",
+            "name": "Mainboard Assy – Redmi Note 5 4+64GB",
+            "type": "Sideboard",
+            "price": "3499"
+        },
+        {
+            "model": "Redmi Note 5 Pro",
+            "name": "Front Cover Display Module – Black / White",
+            "type": "Back Housing",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi Note 5 Pro",
+            "name": "Mainboard Assy-Redmi Note5 Pro-IN-4+64G",
+            "type": "Sideboard",
+            "price": "3699"
+        },
+        {
+            "model": "Redmi Note 5 Pro",
+            "name": "Mainboard Assy-Redmi Note5 Pro-IN-6+64G",
+            "type": "Sideboard",
+            "price": "4299"
+        },
+        {
+            "model": "Redmi Note 6 Pro",
+            "name": "Front Cover Display Module – Black",
+            "type": "Back Housing",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi Note 6 Pro",
+            "name": "Mainboard Assy-Redmi Note6 Pro-IN-4GB+64GB",
+            "type": "Mainboard",
+            "price": "5899"
+        },
+        {
+            "model": "Redmi Note 6 Pro",
+            "name": "Mainboard Assy-Redmi Note6 Pro-IN-6GB+64GB",
+            "type": "Mainboard",
+            "price": "7199"
+        },
+        {
+            "model": "Redmi Go",
+            "name": "Front Cover Display Module – Black",
+            "type": "Back Housing",
+            "price": "1399"
+        },
+        {
+            "model": "Redmi Go",
+            "name": "Mainboard- 1GB+8GB",
+            "type": "Sideboard",
+            "price": "1899"
+        },
+        {
+            "model": "Redmi Go",
+            "name": "Mainboard- 1GB+16GB",
+            "type": "Sideboard",
+            "price": "1999"
+        },
+        {
+            "model": "Redmi Note 7",
+            "name": "Front Cover Display Module – All Colour",
+            "type": "Back Housing",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi Note 7",
+            "name": "Mainboard Assy – 4GB+64GB",
+            "type": "Sideboard",
+            "price": "4999"
+        },
+        {
+            "model": "Redmi Note 7",
+            "name": "Mainboard Assy – 3GB+32GB",
+            "type": "Sideboard",
+            "price": "4199"
+        },
+        {
+            "model": "Redmi Note 7S",
+            "name": "Front Cover Display Module – All Colour",
+            "type": "Back Housing",
+            "price": "2599"
+        },
+        {
+            "model": "Redmi Note 7S",
+            "name": "Mainboard Assy – 4GB+64GB",
+            "type": "Mainboard",
+            "price": "5499"
+        },
+        {
+            "model": "Redmi Note 7S",
+            "name": "Mainboard Assy – 3GB+32GB",
+            "type": "Sideboard",
+            "price": "4699"
+        },
+        {
+            "model": "Redmi Note 7 Pro",
+            "name": "Front Cover Display Module – Purple Blue / Red / Black/White",
+            "type": "Back Housing",
+            "price": "2499"
+        },
+        {
+            "model": "Redmi Note 7 Pro",
+            "name": "Mainboard Assy-Redmi Note7 Pro-IN-4GB+64GB",
+            "type": "Mainboard",
+            "price": "5,699"
+        },
+        {
+            "model": "Redmi Note 7 Pro",
+            "name": "Mainboard Assy-Redmi Note7 Pro-IN-6GB+64GB",
+            "type": "Mainboard",
+            "price": "6,599"
+        },
+        {
+            "model": "Redmi Note 7 Pro",
+            "name": "Mainboard Assy-Redmi Note7 Pro-IN-6GB+128GB",
+            "type": "Mainboard",
+            "price": "7,199"
+        },
+        {
+            "model": "Redmi K20",
+            "name": "Mainboard Assy Redmi K20 6GB+64GB",
+            "type": "Mainboard",
+            "price": "9999"
+        },
+        {
+            "model": "Redmi K20",
+            "name": "Mainboard Assy Redmi K20 6GB+128GB",
+            "type": "Mainboard",
+            "price": "10999"
+        },
+        {
+            "model": "Redmi K20",
+            "name": "Front Cover Display Module Redmi K20 All Colour",
+            "type": "LCD Module",
+            "price": "5999"
+        },
+        {
+            "model": "Redmi K20 Pro",
+            "name": "Mainboard Assy Redmi K20 Pro 6GB+128GB",
+            "type": "Mainboard",
+            "price": "12999"
+        },
+        {
+            "model": "Redmi K20 Pro",
+            "name": "Mainboard Assy Redmi K20 8GB+256GB",
+            "type": "Mainboard",
+            "price": "13999"
+        },
+        {
+            "model": "Redmi K20 Pro",
+            "name": "Front Cover Display Module Redmi K20 Pro All Colour",
+            "type": "LCD Module",
+            "price": "7499"
+        },
+        {
+            "model": "Redmi Note 8",
+            "name": "Main board-Redmi Note8-4GB+64GB",
+            "type": "Mainboard",
+            "price": "4,199"
+        },
+        {
+            "model": "Redmi Note 8",
+            "name": "Main board-Redmi Note8 -6GB+128GB",
+            "type": "Mainboard",
+            "price": "5,499"
+        },
+        {
+            "model": "Redmi Note 8",
+            "name": "Main board-Redmi Note8 -3GB+32GB",
+            "type": "Sideboard",
+            "price": "3999"
+        },
+        {
+            "model": "Redmi Note 8",
+            "name": "Front Cover Display Module-Redmi Note8-Purple/Blue/Black/White",
+            "type": "LCM",
+            "price": "3,199"
+        },
+        {
+            "model": "Redmi Note 8 Pro",
+            "name": "Mainboard Assy-Redmi Note 8 Pro-6GB+64GB",
+            "type": "Mainboard",
+            "price": "6,399"
+        },
+        {
+            "model": "Redmi Note 8 Pro",
+            "name": "Mainboard Assy-6GB+128GB",
+            "type": "Mainboard",
+            "price": "6,799"
+        },
+        {
+            "model": "Redmi Note 8 Pro",
+            "name": "Mainboard Assy-8GB+128GB",
+            "type": "Mainboard",
+            "price": "7,599"
+        },
+        {
+            "model": "Redmi Note 8 Pro",
+            "name": "Front Cover Display Module-Black/White/Green",
+            "type": "LCD Module",
+            "price": "3,799"
+        },
+        {
+            "model": "Redmi 9",
+            "name": "Front Cover Display Module",
+            "type": "LCD Module",
+            "price": "1,999"
+        },
+        {
+            "model": "Redmi 9",
+            "name": "Main board-Assy – Redmi9-4GB+64GB",
+            "type": "Sideboard",
+            "price": "3999"
+        },
+        {
+            "model": "Redmi 9",
+            "name": "Main board-Assy -Redmi9-4GB+128GB",
+            "type": "Sideboard",
+            "price": "4299"
+        },
+        {
+            "model": "Redmi Note 9",
+            "name": "Main board-Assy-Redmi Note9-4GB+64GB",
+            "type": "Mainboard",
+            "price": "5199"
+        },
+        {
+            "model": "Redmi Note 9",
+            "name": "Main board-Assy-Redmi Note9-4GB+128GB",
+            "type": "Mainboard",
+            "price": "5699"
+        },
+        {
+            "model": "Redmi Note 9",
+            "name": "Main board-Assy-Redmi Note9-6GB+128GB",
+            "type": "Mainboard",
+            "price": "6299"
+        },
+        {
+            "model": "Redmi Note 9",
+            "name": "Front Cover Display Module-Black",
+            "type": "Back Housing",
+            "price": "2999"
+        },
+        {
+            "model": "Redmi 9 Prime",
+            "name": "Main board-Assy-Redmi 9 Prime-4GB+64GB",
+            "type": "Sideboard",
+            "price": "4299"
+        },
+        {
+            "model": "Redmi 9 Prime",
+            "name": "Main board-Assy-Redmi 9 Prime-4GB+128GB",
+            "type": "Sideboard",
+            "price": "4999"
+        },
+        {
+            "model": "Redmi 9 Prime",
+            "name": "front shell display module-Redmi 9 Prime-India Edition-Black",
+            "type": "LCD Module",
+            "price": "2,599"
+        },
+        {
+            "model": "Redmi 9A",
+            "name": "Mainboard components-C3L-2GB + 32GB",
+            "type": "Sideboard",
+            "price": "2999"
+        },
+        {
+            "model": "Redmi 9A",
+            "name": "Mainboard components-C3L-3GB + 32GB",
+            "type": "Sideboard",
+            "price": "3199"
+        },
+        {
+            "model": "Redmi 9A",
+            "name": "Display module-C3L-black",
+            "type": "LCD Module",
+            "price": "1,999"
+        },
+        {
+            "model": "Redmi 9i",
+            "name": "Mainboard Assy-C3LI-IN-4GB+128GB",
+            "type": "Sideboard",
+            "price": "3999"
+        },
+        {
+            "model": "Redmi 9i",
+            "name": "Mainboard Assy-C3LI-IN-4GB+64GB",
+            "type": "Sideboard",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi 9i",
+            "name": "Display module-C3L-black",
+            "type": "LCD Module",
+            "price": "1,999"
+        },
+        {
+            "model": "Redmi Note 9 Pro",
+            "name": "Mainboard Assy-J6A1-IN-4GB+64GB",
+            "type": "Mainboard",
+            "price": "8,199"
+        },
+        {
+            "model": "Redmi Note 9 Pro",
+            "name": "Mainboard Assy-J6A1-IN-4GB+128GB",
+            "type": "Mainboard",
+            "price": "8999"
+        },
+        {
+            "model": "Redmi Note 9 Pro",
+            "name": "Mainboard Assy-J6A1-IN-6GB+128GB",
+            "type": "Mainboard",
+            "price": "9,299"
+        },
+        {
+            "model": "Redmi Note 9 Pro",
+            "name": "Front case display module-Black/ white/ blue/ Golden",
+            "type": "Back Housing",
+            "price": "3599"
+        },
+        {
+            "model": "Redmi Note 9 Pro Max",
+            "name": "Mainboard components-J6B1-6GB + 64GB",
+            "type": "Mainboard",
+            "price": "7,299"
+        },
+        {
+            "model": "Redmi Note 9 Pro Max",
+            "name": "Mainboard components-J6B1-6GB + 128GB",
+            "type": "Mainboard",
+            "price": "7,899"
+        },
+        {
+            "model": "Redmi Note 9 Pro Max",
+            "name": "Mainboard components-J6B1-8GB + 128GB",
+            "type": "Mainboard",
+            "price": "8,599"
+        },
+        {
+            "model": "Redmi Note 9 Pro Max",
+            "name": "Front case display module-Gold/Black/ white/ blue",
+            "type": "LCD Module",
+            "price": "3,599"
+        },
+        {
+            "model": "Mi 10",
+            "name": "Mainboard Assy-Mi10-IN-8GB+256GB",
+            "type": "Mainboard",
+            "price": "26999"
+        },
+        {
+            "model": "Mi 10",
+            "name": "Mainboard Assy-Mi10-IN-8GB+128GB",
+            "type": "Mainboard",
+            "price": "25499"
+        },
+        {
+            "model": "Mi 10",
+            "name": "Front Cover Display Module-Mi10-Gray/ Green – Samsung/ CSOT",
+            "type": "LCD Module",
+            "price": "12999"
+        },
+        {
+            "model": "Mi 10T",
+            "name": "Mainboard Assy-J3S-IN-6GB+128GB-64M",
+            "type": "Mainboard",
+            "price": "19999"
+        },
+        {
+            "model": "Mi 10T",
+            "name": "Mainboard Assy-J3S-IN-8GB+128GB-64M",
+            "type": "Mainboard",
+            "price": "21999"
+        },
+        {
+            "model": "Mi 10T Pro",
+            "name": "Mainboard Assy-Mi10T Pro-IN-8GB+128GB",
+            "type": "Mainboard",
+            "price": "23999"
+        },
+        {
+            "model": "Mi 10T",
+            "name": "Front Cover Display Module-J3S-Silver/ Black",
+            "type": "LCD Module",
+            "price": "11999"
+        },
+        {
+            "model": "Mi 10T pro",
+            "name": "Front Cover Display Module-Mi10T Pro-Cosmic Black/ Lunar Silver",
+            "type": "LCD Module",
+            "price": "11999"
+        },
+        {
+            "model": "Mi A1",
+            "name": "Front Cover Display Module – White/Black",
+            "type": "Back Housing",
+            "price": "2199"
+        },
+        {
+            "model": "Mi A1",
+            "name": "Mainboard Assy-Mi A1-4+64G-IN",
+            "type": "Sideboard",
+            "price": "3999"
+        },
+        {
+            "model": "Mi A2",
+            "name": "Front Cover Display Module – White/Black",
+            "type": "Back Housing",
+            "price": "2799"
+        },
+        {
+            "model": "Mi A2",
+            "name": "Mainboard Assy – 4+64G",
+            "type": "Sideboard",
+            "price": "3599"
+        },
+        {
+            "model": "Mi A2",
+            "name": "Mainboard Assy – 6+128G",
+            "type": "Sideboard",
+            "price": "4699"
+        },
+        {
+            "model": "Mi A3",
+            "name": "Mainboard Assy – 4GB+64GB",
+            "type": "Mainboard",
+            "price": "5399"
+        },
+        {
+            "model": "Mi A3",
+            "name": "Mainboard Assy – 6GB+128GB",
+            "type": "Mainboard",
+            "price": "6599"
+        },
+        {
+            "model": "Mi A3",
+            "name": "Front Cover Display Module Blue/Black/Silver",
+            "type": "Back Housing",
+            "price": "4299"
+        },
+        {
+            "model": "Mi A3",
+            "name": "Mainboard Assy-F9S-IN-4GB+64GB",
+            "type": "Mainboard",
+            "price": "5399"
+        },
+        {
+            "model": "Mi A3",
+            "name": "Mainboard Assy-F9S-IN-6GB+128GB",
+            "type": "Mainboard",
+            "price": "6599"
+        },
+        {
+            "model": "Mi 5",
+            "name": "Mainboard Assy-Mi5-SIM Free-Oversea-32G",
+            "type": "Mainboard",
+            "price": "10599"
+        },
+        {
+            "model": "Mi 4i",
+            "name": "Mainboard Assy-Mi4i-Dual Network-16G",
+            "type": "Mainboard",
+            "price": "6649"
+        },
+        {
+            "model": "Mi 4",
+            "name": "Mainboard Assy-Mi4-WCDMA-IN-16G",
+            "type": "Mainboard",
+            "price": "6999"
+        },
+        {
+            "model": "Mi 3",
+            "name": "Mainboard Assy-Mi3-CMCC-16G-Rev_B",
+            "type": "Mainboard",
+            "price": "7799"
+        },
+        {
+            "model": "Mi 3",
+            "name": "Mainboard Assy-Mi3-WCDMA-IN-16G",
+            "type": "Mainboard",
+            "price": "7799"
+        },
+        {
+            "model": "Mi 3",
+            "name": "Front Cover Display Module-Mi3-16G-WCDMA/CDMA",
+            "type": "Back Housing",
+            "price": "4499"
+        },
+        {
+            "model": "Mi 4",
+            "name": "Front Cover Display Module-Mi4-WCDMA/CDMA-White-TP-Wintek LCD-JDI",
+            "type": "Back Housing",
+            "price": "4999"
+        },
+        {
+            "model": "Mi 4i",
+            "name": "Front Cover Display Module-Mi4i-only For IN",
+            "type": "Back Housing",
+            "price": "4999"
+        },
+        {
+            "model": "Mi 5",
+            "name": "Front Cover Display Module-Mi5-black/ White / Golden",
+            "type": "LCD Module",
+            "price": "7999"
+        },
+        {
+            "model": "Mi 6",
+            "name": "Front Cover Display Module-Mi6-black",
+            "type": "LCD Module",
+            "price": "6699"
+        },
+        {
+            "model": "Mi Max 2",
+            "name": "Front Cover Display Module – Black",
+            "type": "Back Housing",
+            "price": "3499"
+        },
+        {
+            "model": "Mi Max 2",
+            "name": "Mainboard Assy – 4G+32G",
+            "type": "Sideboard",
+            "price": "3399"
+        },
+        {
+            "model": "Mi Max 2",
+            "name": "Mainboard Assy – 4G+64G",
+            "type": "Mainboard",
+            "price": "5499"
+        },
+        {
+            "model": "Mi Mix 2",
+            "name": "Front cover Display Module",
+            "type": "LCD Module",
+            "price": "6699"
+        },
+        {
+            "model": "Mi Mix 2",
+            "name": "Mainboard Assy – 128G",
+            "type": "Mainboard",
+            "price": "9599"
+        },
+        {
+            "model": "Mi Mix2",
+            "name": "Mainboard Assy-Mi MIX2-IN-6+128G",
+            "type": "Mainboard",
+            "price": "10,999"
+        },
+        {
+            "model": "Mi Max",
+            "name": "Mainboard Assy-Mi Max-SIM Free-IN-32G",
+            "type": "Sideboard",
+            "price": "4999"
+        },
+        {
+            "model": "Mi Max",
+            "name": "Mainboard Assy-Mi Max-SIM Free-IN-128G",
+            "type": "Mainboard",
+            "price": "8099"
+        },
+        {
+            "model": "Mi Max 2",
+            "name": "Mainboard Assy – 6G+128G",
+            "type": "Mainboard",
+            "price": "10999"
+        },
+        {
+            "model": "Mi Max",
+            "name": "Front Cover Display Module-Mi Max-White",
+            "type": "Back Housing",
+            "price": "3099"
+        },
+        {
+            "model": "Mi Mix",
+            "name": "Touch Panel Assy-Mi MIX-black",
+            "type": "Back Housing",
+            "price": "4999"
+        },
+        {
+            "model": "Mi Mix 2s",
+            "name": "Front Cover Display Module-Mi MIX2S-Black",
+            "type": "LCD Module",
+            "price": "6399"
+        },
+        {
+            "model": "Data Cable – B Type",
+            "name": "USB Cable",
+            "type": "Data Cable",
+            "price": "168"
+        },
+        {
+            "model": "Data Cable – C Type",
+            "name": "USB Cable",
+            "type": "Data Cable",
+            "price": "268"
+        },
+        {
+            "model": "Charger 1A",
+            "name": "Charger-5V_1A",
+            "type": "Charger",
+            "price": "301"
+        },
+        {
+            "model": "Charger 2A",
+            "name": "Charger-5V_2A",
+            "type": "Charger",
+            "price": "363"
+        },
+        {
+            "model": "Charger 3A",
+            "name": "Charger-5V_3A",
+            "type": "Charger",
+            "price": "499"
+        },
+        {
+            "model": "Battery",
+            "name": "Redmi 3S & 3S Prime / Redmi 5 / Redmi 6 & Redmi 6A / Redmi 7 & 7A / Redmi Go / Redmi Note 3 / Redmi Note 5 Pro / Redmi Note 7 & Redmi Note 7 Pro / Redmi Note 7S / Redmi Y2 / Redmi Y3/Redmi Note 8 & Note 8 Pro/Redmi 8 & 8A /Note 9 pro / Redmi9i/ Mi 3/ Mi 4/ Mi 4i / Redmi 1S / Redmi 2/ Redmi 3S+ / Redmi 9 & 9A / Redmi note 9 & 9 pro/ Redmi 8A Dual/ Redmi 7A/ Redmi Go/ Redmi 6 / Redmi 6 A/ Redmi 3S+ / Redmi 3S/ Redmi 2/ Redmi Note/ Redmi Y2 / Redmi Y3/ Redmi 9 prime",
+            "type": "Battery",
+            "price": "799"
+        },
+        {
+            "model": "Battery",
+            "name": "Redmi Y1/ Mi A1/ Redmi Y1S",
+            "type": "Battery",
+            "price": "1299"
+        },
+        {
+            "model": "Battery",
+            "name": "Mi Max",
+            "type": "Battery",
+            "price": "1599"
+        },
+        {
+            "model": "Battery",
+            "name": "Mi 5/ Mi A2 / Mi A3 /Mi Max 2/ Mi Mix2 /Redmi Y1 Lite/ Mi Pad/Redmi Note 9 Pro Max/ Mi Pad/ Redmi Note 4/ Redmi 4A/ Redmi 5A / Redmi Note 5 / Redmi 6 Pro/ Redmi Note 6 Pro / Redmi 4",
+            "type": "Battery",
+            "price": "999"
+        },
+        {
+            "model": "Battery",
+            "name": "Redmi K20/Redmi K20 Pro/Mi 10/ Mi 10T / Mi 10T Pro",
+            "type": "Battery",
+            "price": "1999"
+        },
+        {
+            "model": "Battery",
+            "name": "Mi Notebook 14 / Mi Notebook 14 Horizon",
+            "type": "Battery",
+            "price": "2899"
+        },
+        {
+            "model": "Mi TV 4A 32/ 4C 32 Pro/ 4A 32 Pro",
+            "name": "LCD Module-T26I",
+            "type": "LCM – 32″",
+            "price": "8699"
+        },
+        {
+            "model": "Mi TV 4A 32/ 4C 32 Pro/ 4A 32 Pro",
+            "name": "Main board-V26I",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Mi TV 4A 32/ 4C 32 Pro/ 4A 32 Pro",
+            "name": "Speaker assy-T26I",
+            "type": "Speaker",
+            "price": "399"
+        },
+        {
+            "model": "Mi TV 4A 43 /Mi TV 4A 43 Pro",
+            "name": "LCD Module-T27I",
+            "type": "LCM – 43″",
+            "price": "13999"
+        },
+        {
+            "model": "Mi TV 4A 43 /Mi TV 4A 43 Pro",
+            "name": "Main board-T27I",
+            "type": "Sideboard",
+            "price": "4799"
+        },
+        {
+            "model": "Mi TV 4A 43 /Mi TV 4A 43 Pro",
+            "name": "Speaker assy-T27I",
+            "type": "Speaker",
+            "price": "499"
+        },
+        {
+            "model": "Mi TV 4X 43",
+            "name": "3in1 board-V27N",
+            "type": "Sideboard",
+            "price": "3399"
+        },
+        {
+            "model": "Mi TV 4X 43",
+            "name": "LCD Module-T27I",
+            "type": "LCM",
+            "price": "16999"
+        },
+        {
+            "model": "Mi TV 4X 43",
+            "name": "Loudspeaker-T27I",
+            "type": "Speaker",
+            "price": "499"
+        },
+        {
+            "model": "Mi TV 4A 49 Pro",
+            "name": "Main Board V-30A",
+            "type": "Sideboard",
+            "price": "4999"
+        },
+        {
+            "model": "Mi TV 4A 49 Pro",
+            "name": "LCD Module-V30A",
+            "type": "LCM – 49″",
+            "price": "20999"
+        },
+        {
+            "model": "Mi TV 4 55/ 4 55 Pro",
+            "name": "LCD Module -Mi TV4-55 inch",
+            "type": "LCM – 55″",
+            "price": "29999"
+        },
+        {
+            "model": "Mi TV 4 55/ 4 55 Pro",
+            "name": "Mainboard -Mi TV4-55 inch",
+            "type": "Mainboard",
+            "price": "7999"
+        },
+        {
+            "model": "Mi TV 4 55/ 4 55 Pro",
+            "name": "Speaker Module-Mi TV4-55 inch",
+            "type": "Speaker",
+            "price": "999"
+        },
+        {
+            "model": "Mi TV55 4X Pro",
+            "name": "Mainboard -Mi TV4-55 inch",
+            "type": "Mainboard",
+            "price": "6999"
+        },
+        {
+            "model": "Mi TV55 4X Pro",
+            "name": "LCD Module -Mi TV4-55 inch",
+            "type": "LCM – 55″",
+            "price": "26999"
+        },
+        {
+            "model": "Mi TV55 4X Pro",
+            "name": "Speaker Module-Mi TV4-55 inch",
+            "type": "Speaker",
+            "price": "999"
+        },
+        {
+            "model": "Mi TV 40 4A",
+            "name": "LCM Module MI TV 40 Inch",
+            "type": "LCM",
+            "price": "11999"
+        },
+        {
+            "model": "Mi TV 40 4A",
+            "name": "Speaker Module Mi TV 40 Inch",
+            "type": "Speaker",
+            "price": "599"
+        },
+        {
+            "model": "Mi TV 40 4A",
+            "name": "Main Board Module Mi TV 40 Inch",
+            "type": "Sideboard",
+            "price": "4199"
+        },
+        {
+            "model": "Mi TV 50 4X",
+            "name": "PCB-MB",
+            "type": "PCB",
+            "price": "5599"
+        },
+        {
+            "model": "Mi TV 50 4X",
+            "name": "LCM",
+            "type": "LCM",
+            "price": "19999"
+        },
+        {
+            "model": "Mi TV 50 4X",
+            "name": "Speaker",
+            "type": "Speaker",
+            "price": "899"
+        },
+        {
+            "model": "Mi TV 65 4X",
+            "name": "LCM",
+            "type": "LCM",
+            "price": "36999"
+        },
+        {
+            "model": "Mi TV 65 4X",
+            "name": "Main Board Module Mi TV 65 Inch",
+            "type": "PCB",
+            "price": "9999"
+        },
+        {
+            "model": "Mi TV 65 4X",
+            "name": "Speaker",
+            "type": "Speaker",
+            "price": "1299"
+        },
+        {
+            "model": "Mi TV 32",
+            "name": "ODM IR Remote Control MI TV 32",
+            "type": "TV Remote",
+            "price": "169"
+        },
+        {
+            "model": "Mi TV Pro",
+            "name": "Bluetooth Sound Remote-India Version: MI TV Pro 32/43/49/55",
+            "type": "TV Remote",
+            "price": "423"
+        },
+        {
+            "model": "Mi TV4A 32″ Horizon",
+            "name": "Main Board three-in-one board-WE1T",
+            "type": "Sideboard",
+            "price": "3999"
+        },
+        {
+            "model": "Mi TV4A 43″ Horizon",
+            "name": "Main Board Mi TV 4A 108cm (43) Horizon Edition",
+            "type": "Sideboard",
+            "price": "4999"
+        },
+        {
+            "model": "Mi TV32 4A Pro V1",
+            "name": "Main Board three-in-one board-V26M",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Mi TV32 4C Pro V1",
+            "name": "Main Board three-in-one board-V26M",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Mi TV55 4X Pro V1",
+            "name": "Main Board three-in-one board-V41B",
+            "type": "Mainboard",
+            "price": "6599"
+        },
+        {
+            "model": "Mi TV 43 4X",
+            "name": "Main Board three-in-one board – V27B",
+            "type": "Sideboard",
+            "price": "3399"
+        },
+        {
+            "model": "Mi TV 43 4X",
+            "name": "Main Board three-in-one board – V27B",
+            "type": "Sideboard",
+            "price": "3399"
+        },
+        {
+            "model": "Mi TV 50 4X",
+            "name": "Main Board 3in1 board-V61G",
+            "type": "Mainboard",
+            "price": "5599"
+        },
+        {
+            "model": "Mi TV 65 4X",
+            "name": "Main Board -V79I",
+            "type": "Mainboard",
+            "price": "9999"
+        },
+        {
+            "model": "Mi TV32 4C Pro",
+            "name": "Main Board 3in1 board-V26I",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Mi TV43 Pro",
+            "name": "Main Board 3in1 board-V27N",
+            "type": "Sideboard",
+            "price": "4799"
+        },
+        {
+            "model": "Mi TV49 Pro",
+            "name": "Main Board three-in-one board – V30A",
+            "type": "Sideboard",
+            "price": "4999"
+        },
+        {
+            "model": "Mi TV32 4A Pro",
+            "name": "Main Board 3in1 board-V26I",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Mi TV32",
+            "name": "Main Board 3in1 board-T26I",
+            "type": "Sideboard",
+            "price": "3799"
+        },
+        {
+            "model": "Mi TV43",
+            "name": "Main Board 3in1 board-T27I",
+            "type": "Sideboard",
+            "price": "4799"
+        },
+        {
+            "model": "Mi TV43",
+            "name": "Main Board board-Mi LED TV4A-43Inch-IN-LG",
+            "type": "Sideboard",
+            "price": "4799"
+        },
+        {
+            "model": "Mi TV55",
+            "name": "Service Mainboard-IR WIFI module",
+            "type": "Mainboard",
+            "price": "7999"
+        },
+        {
+            "model": "Mi TV55 4 Pro",
+            "name": "mainboard assy-V23I",
+            "type": "Mainboard",
+            "price": "7999"
+        },
+        {
+            "model": "Mi TV4A 32″ Horizon",
+            "name": "display module-WE1T-CSOT",
+            "type": "LCD Module",
+            "price": "8,999"
+        },
+        {
+            "model": "Mi TV4A 43″ Horizon",
+            "name": "display module-WE2T-CSOT",
+            "type": "LCD Module",
+            "price": "14,999"
+        },
+        {
+            "model": "Mi TV32 4A Pro V1",
+            "name": "display module-V26D-CSOT",
+            "type": "LCD Module",
+            "price": "8,699"
+        },
+        {
+            "model": "Mi TV32 4C Pro V1",
+            "name": "display module-V26M",
+            "type": "LCD Module",
+            "price": "8,699"
+        },
+        {
+            "model": "Mi TV55 4X Pro V1",
+            "name": "display module-V41B-CSOT",
+            "type": "LCD Module",
+            "price": "24,999"
+        },
+        {
+            "model": "Mi TV 43 4X",
+            "name": "display module -V27B",
+            "type": "LCD Module",
+            "price": "16,999"
+        },
+        {
+            "model": "Mi TV 50 4X",
+            "name": "LCM-V61G",
+            "type": "LCD Module",
+            "price": "19,999"
+        },
+        {
+            "model": "Mi TV 40 4A",
+            "name": "display module-V77I",
+            "type": "LCD Module",
+            "price": "11,999"
+        },
+        {
+            "model": "Mi TV 40 4A",
+            "name": "display module-V77I",
+            "type": "LCD Module",
+            "price": "11,999"
+        },
+        {
+            "model": "Mi TV 65 4X",
+            "name": "display module -V79I-LG",
+            "type": "LCD Module",
+            "price": "36,999"
+        },
+        {
+            "model": "Mi TV32 4C Pro",
+            "name": "LCM-V26I",
+            "type": "LCD Module",
+            "price": "8,699"
+        },
+        {
+            "model": "Mi TV43 Pro",
+            "name": "LCD Module-T27I",
+            "type": "LCD Module",
+            "price": "13,999"
+        },
+        {
+            "model": "Mi TV55 4X Pro",
+            "name": "display module -V41I-LG",
+            "type": "LCD Module",
+            "price": "26,999"
+        },
+        {
+            "model": "Mi TV55 4X Pro",
+            "name": "display module -V41I-CSOT",
+            "type": "LCD Module",
+            "price": "26,999"
+        },
+        {
+            "model": "Mi TV49 Pro",
+            "name": "Display Modeule LG – V30A",
+            "type": "LCD Module",
+            "price": "20,999"
+        },
+        {
+            "model": "Mi TV49 Pro",
+            "name": "display module-V30A-Samsung",
+            "type": "LCD Module",
+            "price": "20,999"
+        },
+        {
+            "model": "Mi TV49 Pro",
+            "name": "display module -V30A-LG",
+            "type": "LCD Module",
+            "price": "20,999"
+        },
+        {
+            "model": "Mi TV32 4A Pro",
+            "name": "display module -V26A",
+            "type": "LCD Module",
+            "price": "8,699"
+        },
+        {
+            "model": "Mi TV32",
+            "name": "LCD Module-T26I",
+            "type": "LCD Module",
+            "price": "8,699"
+        },
+        {
+            "model": "Mi TV43",
+            "name": "LCD Module-T27I",
+            "type": "LCD Module",
+            "price": "13,999"
+        },
+        {
+            "model": "Mi TV55",
+            "name": "LCM-Mi TV4-55 inch-India",
+            "type": "LCD Module",
+            "price": "29,999"
+        },
+        {
+            "model": "Mi TV55 4 Pro",
+            "name": "LCM-Mi TV4-55 inch-India",
+            "type": "LCD Module",
+            "price": "29,999"
+        },
+        {
+            "model": "Mi TV55 4 Pro",
+            "name": "LCM-Mi TV4-55 inch-India",
+            "type": "LCD Module",
+            "price": "29,999"
+        },
+        {
+            "model": "Mi Notebook 14",
+            "name": "Mainboard A1R i5-10210U INT 8G-IN",
+            "type": "Mainboard",
+            "price": "23999"
+        },
+        {
+            "model": "Mi Notebook 14",
+            "name": "Mainboard A1R i5-10210U MX250_2GB 8G-IN",
+            "type": "Mainboard",
+            "price": "27999"
+        },
+        {
+            "model": "Mi Notebook 14 HoriZon",
+            "name": "Mainboard-A3-i5-8G-MX350_2GB-IN",
+            "type": "Mainboard",
+            "price": "28999"
+        },
+        {
+            "model": "Mi Notebook 14 HoriZon",
+            "name": "Mainboard-A3-i7-8G-MX350_2GB-IN",
+            "type": "Mainboard",
+            "price": "35999"
+        },
+        {
+            "model": "Mi Notebook 14 HoriZon",
+            "name": "Mainboard-A3-i5-8G-MX350_2GB-IN",
+            "type": "Mainboard",
+            "price": "28999"
+        },
+        {
+            "model": "Mi Notebook 14 HoriZon",
+            "name": "Mainboard-A3-i7-8G-MX350_2GB-IN",
+            "type": "Mainboard",
+            "price": "35999"
+        },
+        {
+            "model": "Mi Pad",
+            "name": "Mainboard Assy-Mi pad-16G-Oversea",
+            "type": "Mainboard",
+            "price": "7499"
+        },
+        {
+            "model": "Mi Notebook 14",
+            "name": "Display / Panel-A1R",
+            "type": "LCD Module",
+            "price": "7,999"
+        },
+        {
+            "model": "Mi Notebook 14 HoriZon",
+            "name": "Display / Panel-A3",
+            "type": "LCD Module",
+            "price": "9,999"
+        }
+    ]
+}
