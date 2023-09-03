@@ -17,7 +17,7 @@ Built using MongoDB, Expressjs, React, Nodejs , Socket-io
 
 ## clone or download
 ```terminal
-$ git clone https://github.com/0211AB/ode2code-aftersales.git
+$ git clone [https://github.com/0211AB/ode2code-aftersales.git](https://github.com/0211AB/ode2code-aftersales.git)
 ```
 
 ## project structure
